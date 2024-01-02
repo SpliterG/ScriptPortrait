@@ -1,0 +1,1 @@
+Esse projeto é um plugin feito para um projeto feito para um jogo que estou desenvolvendo em colaboração com outro programador, um musicista e uma designer Gráfica. Foi um projeto de certa forma extenso, trabalhando com uma linguagem não tão habitual para mim, e com um processo de script onde nunca tive muitoc contato, que é a area de games.
